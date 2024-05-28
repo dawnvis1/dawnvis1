@@ -1,8 +1,8 @@
-# DawnVis
+# Dawnvis
 
-![DawnVis Logo](path_to_your_logo)
+https://avatars.githubusercontent.com/u/171034892?v=4
 
-Welcome to the official GitHub repository of **DawnVis**! We are experts in custom software development, web, and mobile application development. Our mission is to deliver top-notch solutions tailored to meet the unique needs of our clients.
+Welcome to the official GitHub repository of **Dawnvis**! We are experts in custom software development, web, and mobile application development. Our mission is to deliver top-notch solutions tailored to meet the unique needs of our clients.
 
 ## Services We Offer
 
@@ -56,14 +56,14 @@ We create intuitive and engaging mobile applications for both iOS and Android pl
 
 For inquiries, collaborations, or more information, feel free to reach out to us:
 
-- Email: [info@dawnvis.com](mailto:info@dawnvis.com)
-- Website: [www.dawnvis.com](http://www.dawnvis.com)
+- Email: [info@Dawnvis.com](mailto:info@Dawnvis.com)
+- Website: [www.Dawnvis.com](http://www.Dawnvis.com)
 
 Follow us on social media:
 
-- [LinkedIn](https://www.linkedin.com/company/dawnvis)
-- [Twitter](https://twitter.com/dawnvis)
-- [Facebook](https://www.facebook.com/dawnvis)
+- [LinkedIn](https://www.linkedin.com/company/Dawnvis)
+- [Twitter](https://twitter.com/Dawnvis)
+- [Facebook](https://www.facebook.com/Dawnvis)
 
 ## License
 
@@ -71,4 +71,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-© 2024 DawnVis. All rights reserved.
+© 2024 Dawnvis. All rights reserved.
