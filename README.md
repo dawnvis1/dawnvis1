@@ -1,4 +1,6 @@
-# ![DawnVis Logo](https://avatars.githubusercontent.com/u/171034892?v=4)
+## About Dawnvis
+
+<img src="https://avatars.githubusercontent.com/u/171034892?v=4" alt="DawnVis Logo" width="150" />
 
 Welcome to the official GitHub repository of **Dawnvis**! We are experts in custom software development, web, and mobile application development. Our mission is to deliver top-notch solutions tailored to meet the unique needs of our clients.
 
